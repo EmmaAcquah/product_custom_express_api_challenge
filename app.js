@@ -7,6 +7,6 @@ app.get('/', (req, res) => {
 })
 
 app.use(express.json());
-app.use('/products', productRoutes);
+app.use('/products', productRoutes); // Defines the base URL for the productRoutes
 
 module.exports = app;

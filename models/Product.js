@@ -15,7 +15,7 @@ class Product {
 
         // If product is truthy (i.e. a product has been found)
         if (product) {
-            return new Product(product);
+            return new Product(product); // Why return a new object from a query method - Check
         } else {
             throw "Error: Product not found";
         }
