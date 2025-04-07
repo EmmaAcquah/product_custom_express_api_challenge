@@ -14,5 +14,4 @@ const show = async (req, res) => {
         res.status(404).send({ error: err });
     }
 
-   
 }

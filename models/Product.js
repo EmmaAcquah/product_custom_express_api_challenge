@@ -21,4 +21,7 @@ class Product {
         }
     }
 
+    static findAll() {
+        return productsJson.map( p => new Product(p));
+    }
 }
