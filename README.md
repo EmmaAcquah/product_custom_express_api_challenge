@@ -15,3 +15,8 @@ Practising building my own API in Javascript using Express web framework. The AP
     ```
 - Add "Express" web framework as a dependency: `npm i express`
 
+## User Installation
+- If running the API as a user for the first time, run:
+`npm i` or `npm install` from the root directory containing the project's `package.json` file.
+- Once the project dependencies are installed, use the command `npm run dev` to start the server on the port `8086`.
+
