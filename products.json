@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Keyboard (UK)",
+        "brand": "Apple",
+        "id": 1,
+        "price": "10.50",
+        "category": "Office supplies"
+    },
+    {
+        "name": "Mouse",
+        "brand": "Apple",
+        "id": 2,
+        "price": "6.00",
+        "category": "Office supplies"
+    },
+    {
+        "name": "Ballpoint Pens (20 Pack)",
+        "brand": "Bic",
+        "id": 3,
+        "price": "3.00",
+        "category": "Office supplies"
+    },
+    {
+        "name": "Sticky Notes",
+        "brand": "Post-It",
+        "id": 4,
+        "price": "3.50",
+        "category": "Office supplies"
+    },
+    {
+        "name": "A4 Paper",
+        "brand": "Unbranded",
+        "id": 5,
+        "price": "5.00",
+        "category": "Office supplies"
+    }
+]
